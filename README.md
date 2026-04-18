@@ -9,9 +9,9 @@
 | Dataset ID | `732704` |
 | Location | Costa Mesa |
 | Category | Restaurants |
-| Full dataset size | 434 records |
-| Free sample size | 43 records (9.91%) |
-| Last export | 2026-04-07T13:34:11.218270+00:00 |
+| Full dataset size | 431 records |
+| Free sample size | 43 records (9.98%) |
+| Last export | 2026-04-14T20:42:49.876542+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-costa-mesa-california-us-sample-732704/releases/download/sample-latest/beamstation_732704_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
