@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d7a3e1d5-69d7-4f7a-ab8f-2b7707f54a18",
+  "export_job_id": "361773c1-5bb2-4720-8a26-a7cafac6820c",
   "id_short": 732704,
-  "published_at": "2026-04-29T07:58:43Z",
+  "published_at": "2026-05-08T19:09:17Z",
   "repo_name": "all-restaurants-in-costa-mesa-california-us-sample-732704",
   "sample_asset_name": "beamstation_732704_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/732704/beamstation_732704_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "6c52dbfd252a4b0f586fefd4609e8e4dddce1733c808f7efe9da41dd75d7189c",
-  "sample_size_bytes": 131485,
-  "total_records": 351
+  "sample_records": 44,
+  "sample_sha256": "be4d668d0382f752e0ce7a0edb11f93e7d407c4160a261ef0b2cbecb9e3dce03",
+  "sample_size_bytes": 179732,
+  "total_records": 445
 }
